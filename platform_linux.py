@@ -6,7 +6,7 @@ from pathlib import Path
 
 import numpy as np
 
-from platform import Platform
+from platform_UNF import Platform
 
 from Xlib import X, XK, protocol
 from Xlib.display import Display
